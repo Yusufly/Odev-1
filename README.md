@@ -1,4 +1,3 @@
-# odev1
-# Odev1
+# Ödev 1
 Merhaba README ekliyorum.
 [patika.dev adresim](https://app.patika.dev/riden)
